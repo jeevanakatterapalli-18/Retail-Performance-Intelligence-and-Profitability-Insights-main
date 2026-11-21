@@ -116,16 +116,16 @@ The interactive Power BI dashboard provides insights into overall sales performa
 
 ### 1. Sales Overview
 
-![Sales Overview](screenshots/overview.png)
+![Sales Overview](Retail-Performance-Intelligence-and-Profitability-Insights-main/screenshots/overview.png)
 
 ### 2. Product Performance
 
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](Retail-Performance-Intelligence-and-Profitability-Insights-main/screenshots/product_performance.png)
 
 
 ### 3. Regional Sales & Profitability
 
-![Regional Sales & Profitability](screenshots/regional_sales_and_profitablity.png)
+![Regional Sales & Profitability](Retail-Performance-Intelligence-and-Profitability-Insights-main/screenshots/regional_sales_and_profitablity.png)
 
 
 
