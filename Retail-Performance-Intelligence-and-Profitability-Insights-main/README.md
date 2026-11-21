@@ -204,6 +204,6 @@ The objective of this project is to demonstrate how raw transactional data can b
 
 ## Author
 
-**Mohammed Faizan Kaleem**
+**Jeevana Jyothi Katterapalli**
 
 Data Analyst | Excel | Power BI | SQL | Python
